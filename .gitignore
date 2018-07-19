@@ -1,0 +1,5 @@
+.idea/
+audio_regressor/
+model/
+res/
+run.sh
